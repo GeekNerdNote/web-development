@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"6985a1686a6426b8","x":178,"y":-1390,"width":600,"height":416,"color":"2","type":"file","file":"com-sci/guideware/javascript/README.md"},
+		{"id":"26859e42de033b48","x":299,"y":-1759,"width":359,"height":82,"color":"1","type":"text","text":"# JavaScript Roadmap"},
+		{"id":"308b53ae3ad5011d","x":1035,"y":-1190,"width":136,"height":80,"color":"6","type":"text","text":"## History"},
+		{"id":"086db4436276e45e","x":1497,"y":-1718,"width":1007,"height":1135,"color":"3","type":"link","url":"https://en.wikipedia.org/wiki/JavaScript"}
+	],
+	"edges":[
+		{"id":"ed3afaca20c9c217","fromNode":"26859e42de033b48","fromSide":"bottom","toNode":"6985a1686a6426b8","toSide":"top"},
+		{"id":"b40e6d37f6d285b7","fromNode":"308b53ae3ad5011d","fromSide":"right","toNode":"086db4436276e45e","toSide":"left"},
+		{"id":"1e376999c664dfbc","fromNode":"6985a1686a6426b8","fromSide":"right","toNode":"308b53ae3ad5011d","toSide":"left"}
+	]
+}
