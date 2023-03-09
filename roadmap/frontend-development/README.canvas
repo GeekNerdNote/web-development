@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"group","label":"HTML","id":"ef26b22c9cd1ca4e","x":-440,"y":-480,"width":1000,"height":620,"color":"5"},
+		{"type":"text","text":"# Frontend Development","id":"94a2a2f16a765247","x":-120,"y":-760,"width":369,"height":84},
+		{"type":"text","text":"### Resources to learn HTML\n\n- [Introduction to HTML by MDN](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)\n- [HTML W3school](https://www.w3schools.com/html/default.asp)\n","id":"93bf782ec12b72dc","x":120,"y":-380,"width":380,"height":140,"color":"6"},
+		{"type":"text","text":"## HTML References\n\n- [HTML reference by MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)\n- [HTML Element Reference by w3school](https://www.w3schools.com/TAGS/default.asp)\n- [htmlreference.io](https://htmlreference.io/)","id":"f459b0bb50b7ebec","x":120,"y":-180,"width":380,"height":200,"color":"6"},
+		{"type":"file","file":"web-dev/guideware/html/README.canvas","id":"36e9dba6a860f737","x":-400,"y":-380,"width":400,"height":400,"color":"2"}
+	],
+	"edges":[
+		{"id":"de268f58c8eaa216","fromNode":"36e9dba6a860f737","fromSide":"right","toNode":"93bf782ec12b72dc","toSide":"left"},
+		{"id":"39b682ca0affedc0","fromNode":"36e9dba6a860f737","fromSide":"right","toNode":"f459b0bb50b7ebec","toSide":"left"},
+		{"id":"615e745e7befc6c4","fromNode":"94a2a2f16a765247","fromSide":"bottom","toNode":"ef26b22c9cd1ca4e","toSide":"top"}
+	]
+}

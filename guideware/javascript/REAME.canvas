@@ -1,9 +1,9 @@
 {
 	"nodes":[
-		{"id":"6985a1686a6426b8","x":178,"y":-1390,"width":600,"height":416,"color":"2","type":"file","file":"com-sci/guideware/javascript/README.md"},
 		{"id":"26859e42de033b48","x":299,"y":-1759,"width":359,"height":82,"color":"1","type":"text","text":"# JavaScript Roadmap"},
-		{"id":"308b53ae3ad5011d","x":1035,"y":-1190,"width":136,"height":80,"color":"6","type":"text","text":"## History"},
-		{"id":"086db4436276e45e","x":1497,"y":-1718,"width":1007,"height":1135,"color":"3","type":"link","url":"https://en.wikipedia.org/wiki/JavaScript"}
+		{"id":"086db4436276e45e","x":1483,"y":-1926,"width":1007,"height":1135,"color":"3","type":"link","url":"https://en.wikipedia.org/wiki/JavaScript"},
+		{"id":"6985a1686a6426b8","x":179,"y":-1566,"width":600,"height":208,"color":"2","type":"file","file":"web-dev/guideware/javascript/README.md"},
+		{"id":"308b53ae3ad5011d","x":952,"y":-1478,"width":352,"height":80,"color":"6","type":"text","text":"## History of Javascript"}
 	],
 	"edges":[
 		{"id":"ed3afaca20c9c217","fromNode":"26859e42de033b48","fromSide":"bottom","toNode":"6985a1686a6426b8","toSide":"top"},

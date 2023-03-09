@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"group","label":"Job Roles","id":"83e4f1f304aa9883","x":-520,"y":-820,"width":1080,"height":780},
+		{"type":"text","text":"# Start Web Development ","id":"11e88e563511b114","x":-180,"y":-960,"width":400,"height":80},
+		{"type":"text","text":"## Web Development Job role","id":"a15f179a48f84821","x":-191,"y":-800,"width":422,"height":80,"color":"1"},
+		{"type":"text","text":"# Full Stack Developer","id":"1080a23ceeb699fe","x":-163,"y":-640,"width":367,"height":80},
+		{"type":"text","text":"# Frontend Developer","id":"946b1306075bbd76","x":-440,"y":-471,"width":367,"height":77},
+		{"type":"text","text":"# Backend Developer","id":"7475a840916c97f7","x":80,"y":-471,"width":367,"height":77},
+		{"type":"file","file":"web-dev/roadmap/frontend-development/README.canvas","id":"e81df2bc414e0459","x":-456,"y":-280,"width":400,"height":200},
+		{"type":"file","file":"web-dev/roadmap/backend-development/README.canvas","id":"cd13976486fd4839","x":80,"y":-280,"width":400,"height":200},
+		{"id":"592f980b25b6d9f4","x":-101,"y":180,"width":341,"height":120,"type":"text","text":"# Tools Web Developer need to know"},
+		{"id":"53889ce4aa486f25","x":395,"y":20,"width":370,"height":320,"type":"text","text":"## Web Browsers\n\nThe purpose of a web browser is to read HTML CSS and JavaScript and display them to user\n\n- [Google Chrome](https://www.google.com/chrome/)\n- [Firefox](https://www.mozilla.org/en-US/firefox/browsers/x)\n\t- [Firefox Developer edition](https://www.mozilla.org/en-US/firefox/developer/)\n- [Microsoft Edge](https://www.microsoft.com/en-us/edge)\n- [Brave](https://brave.com/)"},
+		{"id":"40e9077db3e32e4a","x":365,"y":380,"width":400,"height":420,"type":"text","text":"## Code editor"}
+	],
+	"edges":[
+		{"id":"3b227d7c2a951e9f","fromNode":"11e88e563511b114","fromSide":"bottom","toNode":"a15f179a48f84821","toSide":"top"},
+		{"id":"7eb86b844c9b1015","fromNode":"a15f179a48f84821","fromSide":"bottom","toNode":"1080a23ceeb699fe","toSide":"top"},
+		{"id":"980049108e73f2fd","fromNode":"1080a23ceeb699fe","fromSide":"bottom","toNode":"946b1306075bbd76","toSide":"top","fromEnd":"arrow"},
+		{"id":"c7ab5a35fc0ca73f","fromNode":"1080a23ceeb699fe","fromSide":"bottom","toNode":"7475a840916c97f7","toSide":"top","fromEnd":"arrow"},
+		{"id":"84cec37d4c15a29f","fromNode":"a15f179a48f84821","fromSide":"right","toNode":"7475a840916c97f7","toSide":"top"},
+		{"id":"47bffc7115e203c0","fromNode":"a15f179a48f84821","fromSide":"left","toNode":"946b1306075bbd76","toSide":"top"},
+		{"id":"3e6d981d0a78a659","fromNode":"946b1306075bbd76","fromSide":"bottom","toNode":"e81df2bc414e0459","toSide":"top"},
+		{"id":"cb920d24e8eb6958","fromNode":"7475a840916c97f7","fromSide":"bottom","toNode":"cd13976486fd4839","toSide":"top"},
+		{"id":"270ef944a5de3769","fromNode":"83e4f1f304aa9883","fromSide":"bottom","toNode":"592f980b25b6d9f4","toSide":"top"},
+		{"id":"cd4d0ac5c3bef9fd","fromNode":"592f980b25b6d9f4","fromSide":"right","toNode":"53889ce4aa486f25","toSide":"left"},
+		{"id":"479e7c935a503ed9","fromNode":"592f980b25b6d9f4","fromSide":"right","toNode":"40e9077db3e32e4a","toSide":"left"}
+	]
+}
