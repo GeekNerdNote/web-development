@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"401838fca6e9b3c6","x":-300,"y":-246,"width":250,"height":60,"type":"text","text":"API Gateway"},
+		{"id":"e9cf915f206db27e","x":-173,"y":-159,"width":250,"height":60,"type":"text","text":"API Management\n"}
+	],
+	"edges":[]
+}
